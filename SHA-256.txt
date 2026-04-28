@@ -1,1 +1,1 @@
-
+<64‑character SHA256 hash>  <filename>.exe
